@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Register Interest | Naomi's EventFest</title>
+  <link rel="stylesheet" href="./index.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Register Your Interest</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Let’s Get You Started!</h2>
+      <p>Fill in your details and let us know what kind of event you’re interested in. We’ll get back to you soon!</p>
+
+      <form id="event-form">
+        <input type="text" id="event-name" placeholder="Full Name" required />
+        <input type="email" id="event-email" placeholder="Email Address" required />
+        <select id="event-description" required>
+          <option value="">Interested in...</option>
+          <option value="concerts">Concerts</option>
+          <option value="corporate">Corporate Events</option>
+          <option value="weddings">Weddings</option>
+          <option value="birthday party">Birthday part</option>
+          <option value="graduation ceremony">Graduation ceremony</option>
+          <option value="baby shower">Baby shower</option>
+        </select>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Naomi's EventFest. All rights reserved.</p>
+  </footer>
+
+  <script src="./index.js"></script>
+</body>
+</html>
