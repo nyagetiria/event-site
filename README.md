@@ -1,6 +1,3 @@
-Here's a README template for your EventFest website, similar to the Akan Name Generator one you shared:
-
-```markdown
 # Naomi's EventFest
 
 ## Description
