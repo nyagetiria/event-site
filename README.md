@@ -48,9 +48,8 @@ For inquiries, suggestions, or contributions, please reach out to: [your.email@e
 ## License
 This project is licensed under the MIT License.
 
----
 © 2025 Naomi's EventFest by Naomi
-```https://vercel.com/nyagetirias-projects/event-site
+https://vercel.com/nyagetirias-projects/event-site
 
 This README includes key sections such as project description, features, installation instructions, and licensing. You can update the GitHub link with your actual repository link and customize the contact email as needed.
 
